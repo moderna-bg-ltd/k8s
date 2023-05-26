@@ -1,9 +1,11 @@
 # k8s
 
-## MacOS & Windows
+## Kubernetes locally
+
+### MacOS & Windows
 - Docker Desktop, Preferences menu, find the Kubernetes section and enable it
 
-## Linux - minikube
+### Linux - minikube
 - Install minicobe on Linux: https://minikube.sigs.k8s.io/docs/start/
 - K8s official documentation: https://kubernetes.io/docs/home/
 - K8s concepts: https://kubernetes.io/docs/concepts/overview/
