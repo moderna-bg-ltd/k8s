@@ -15,3 +15,7 @@
 - Amazon Elastic Kubernetes Service (EKS): https://aws.amazon.com/eks/
 - Azure Kubernetes Service (AKS): https://azure.microsoft.com/en-us/products/kubernetes-service
 - Digital Ocean: https://www.digitalocean.com/products/
+
+```
+kubectl apply -f kubernetes.yaml
+```
